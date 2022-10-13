@@ -20,6 +20,8 @@
 </div>
 <br>
 
+## [Link do Projeto 🎃](https://lcamargodasilva.github.io/responsive-site-halloween)
+
 ## [Video do projeto](https://youtu.be/lgo1CEPZoxg)
 
 <h4 align="center">
